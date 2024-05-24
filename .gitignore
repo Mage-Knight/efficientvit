@@ -7,7 +7,7 @@ __pycache__/
 .exp/
 .slurm/
 
-assets/checkpoints/
+# assets/checkpoints/
 assets/export_models/
 coco/
 
